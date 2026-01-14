@@ -1,2 +1,4 @@
 # Vision Transformer
-This project trains a Vision Transformer (ViT) for CIFAR-10 image classification in PyTorch. I built an end-to-end workflow that includes data preprocessing, model definition, training, and evaluation, with a focus on reproducible experiments and clear metrics. The notebook includes controlled comparisons of training choices (like regularization and learning-rate scheduling) to improve generalization rather than just training accuracy.
+This project trains a Vision Transformer (ViT) for CIFAR-10 image classification in PyTorch. I built an end-to-end workflow that includes data 
+preprocessing, model definition, training, and evaluation, with a focus on reproducible experiments and clear metrics. The notebook includes 
+controlled comparisons of training choices (like regularization and learning-rate scheduling) to improve generalization rather than just training accuracy.
